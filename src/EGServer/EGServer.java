@@ -203,7 +203,6 @@ public class EGServer extends JavaPlugin implements Listener {
 		//////////////////////////////////
 		this.getLogger().info("plugin start");
 		server = this;
-		loadConfig();
 		
 		//////////////////////////////////
 		getServer().getPluginManager().registerEvents(new DefaultEventHandler(), this);
@@ -219,6 +218,8 @@ public class EGServer extends JavaPlugin implements Listener {
 		
 		egParkour = new ParkourManager(server);
 		serverGUI = new EGServerGUI(server);
+		
+		loadConfig();
 		
 		////// 미니게임
 		findTheMurder = new FindTheMurder(server, "FindTheMurder", "§c§l살인자를 찾아라 §f§l1채널§7", "/ftm1");

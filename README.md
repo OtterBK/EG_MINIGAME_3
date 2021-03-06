@@ -106,7 +106,7 @@ minigames.add(kingOfMine4);
 ####  📥 플러그인 다운로드
 <div align=center>
 
-👉 [구글 드라이브](https://drive.google.com/drive/folders/1XU0xXv_GjPJSPl5_uRNbVQEaS8bxU-Qg?usp=sharing)
+👉 [구글 드라이브](https://drive.google.com/file/d/1KkbhNT1meqZ2XSW1cmxlt8AlexZdENS8/view?usp=sharing)
 
 </div>
 
