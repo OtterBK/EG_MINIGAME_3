@@ -1,0 +1,17 @@
+name: EGMinigame
+main: EGServer.EGServer
+version: 0.42
+description: EGMinigame Plugin by Bokum
+commands:
+  egmute:
+    description: mute command
+  egunmute:
+    description: unmute command
+  신고:
+    description: report command
+  경고:
+    description: warn command
+  귓:
+    description: privatemsg command
+  감시:
+    description: watchdog command
